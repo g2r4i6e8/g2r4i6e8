@@ -3,8 +3,10 @@
 My name is Andrey Kolomatskiy. I am a data enthusiast from St. Petersburg, Russia.
 
 Feel free to contact me:
-E-mail: andrey@kolomatskiy.ru
-Telegram: akolomatskiy
+
+:email: E-mail: andrey@kolomatskiy.ru
+
+:iphone: Telegram: [@akolomatskiy](https://t.me/akolomatskiy)
 
 ### 💫PDFile
 
