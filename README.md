@@ -24,7 +24,6 @@ Project site: [Data Picture](https://www.instagram.com/data_picture/)
 
 [Competitions](https://github.com/g2r4i6e8/competitions): My humble achievements in different ML competitions.
 
-[My Kaggle profile](https://www.kaggle.com/g2r4i6e8)
 
 ## ✨ I’m open to job offers now ✨
 [Check out my profile on LinkedIn](https://www.linkedin.com/in/andrey-kolomatskiy-952877190)
