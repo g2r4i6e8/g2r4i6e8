@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrey Kolomatskiy. I am a data enthusiast from St. Petersburg, Russia.
+My name is Andrey Kolomatskiy. I am a data enthusiast from St. Petersburg, Russia. Currently in Serbia.
 
 Feel free to contact me:
 
