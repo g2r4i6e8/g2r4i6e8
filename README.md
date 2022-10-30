@@ -8,6 +8,11 @@ Feel free to contact me:
 
 :iphone: Telegram: [@akolomatskiy](https://t.me/akolomatskiy)
 
+:briefcase: Linkedin: [Andrey Kolomatskiy](https://www.linkedin.com/in/andrey-kolomatskiy-952877190)
+
+
+
+
 ### 💫PDFile
 
 [PDFile-TelegramBot](https://github.com/g2r4i6e8/pdfile): A Telegram Bot to work with PDF - merging, splitting, compressing and converting.
@@ -27,10 +32,6 @@ Project site: [Data Picture](https://www.instagram.com/data_picture/)
 ### 💫Competitions
 
 [Competitions](https://github.com/g2r4i6e8/competitions): My humble achievements in different ML competitions.
-
-
-## ✨ I’m open to job offers now ✨
-[Check out my profile on LinkedIn](https://www.linkedin.com/in/andrey-kolomatskiy-952877190)
 
 <!--
 **g2r4i6e8/g2r4i6e8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
