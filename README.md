@@ -23,6 +23,13 @@ Deployed at [@PDFi1e_bot](https://t.me/PDFi1e_bot)
 
 [GeoCSV](https://github.com/g2r4i6e8/geocsv): QGIS plugin that creates a vector layer from the loaded csv file to make it available to edit.
 
+### 💫Yandex Music -> Deezer
+
+[exportTracksFromYandexMusicToDeezer](https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer): Transfer your data (playlists and liked songs) from Yandex Music to Deezer.
+
+### 💫Kontur pop
+[Kontur pop](https://github.com/g2r4i6e8/Kontur-pop): Retrieve pretty accurate population data from Kontur 
+
 ### 💫Movie Lines
 
 [Movie Lines - Media art project](https://github.com/g2r4i6e8/movie-lines): Transforming video frames to a poster with its unique colours.
